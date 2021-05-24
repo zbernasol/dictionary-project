@@ -15,7 +15,6 @@ export default function Dictionary() {
         event.preventDeault();
 
         //documentation: https://dictionaryapi.dev/
-
         let apiUrl = `https://api.dictionaryapi.dev/api/v2/entries/en_US/${keyword}`;
         axios.get(apiUrl).then(handleResponse);
     }
