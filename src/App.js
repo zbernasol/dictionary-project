@@ -13,6 +13,7 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
+        <footer className="App-footer">Coded by Zian Bernasol</footer>
       </div>
     </div>
   );
