@@ -13,7 +13,7 @@ export default function App() {
           <Dictionary defaultKeyword="pandemic" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Zian Bernasol</small>
+          <small><a href="https://github.com/zbernasol/dictionary-project" target="_blank" rel="noreferre">Open-source</a> code by <a href="https://www.linkedin.com/in/zian-angelica-bernasol-6a190a113/" target="_blank" rel="noreferrer">Zian Bernasol</a></small>
           </footer>
       </div>
     </div>
